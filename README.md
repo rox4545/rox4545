@@ -10,7 +10,7 @@
 <p>📧 Reach me at <a href="rohan.powrohitham@gmail.com">rohan.powrohitham@gmail.com</a></p><br>
 
 ## Im on
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/powrohitham-rohan-5b906a301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/powrohitham-rohan)
 
 ## 🙌 Let's Connect!
 Feel free to explore my repositories and projects
