@@ -3,7 +3,7 @@
 
 
 🌱 I’m currently learning python <br><br>
-📍 I study in- coimbatore , India <br><br>
+📍 I'm currently doing my B.Tech in amrita vishwa vidhyapeetam , coimbatore , India <br><br>
 ![Profile views](https://counter.kuber.studio/rox4545/hacker/count.svg)
 <p>📧 Reach me at <a href="rohan.powrohitham@gmail.com">rohan.powrohitham@gmail.com</a></p><br>
 
