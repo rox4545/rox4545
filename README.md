@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning python <br><br>
 📍 I'm currently doing my B.Tech in amrita vishwa vidhyapeetam , coimbatore , India <br><br>
-🖼️ I aslo do Graphic Design in free time [![Static Badge](https://img.shields.io/badge/works-black?style=flat-square&logo=Instagram&logoColor=%23FFFFFF&logoSize=auto)](https://www.instagram.com/ro1.dzns)
+🖼️ I also do Graphic Design in free time [![Static Badge](https://img.shields.io/badge/works-black?style=flat-square&logo=Instagram&logoColor=%23FFFFFF&logoSize=auto)](https://www.instagram.com/ro1.dzns)
  <br><br>
 ![Profile views](https://counter.kuber.studio/rox4545/hacker/count.svg)
 <p>📧 Reach me at <a href="rohan.powrohitham@gmail.com">rohan.powrohitham@gmail.com</a></p><br>
