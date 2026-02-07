@@ -12,8 +12,4 @@
 ## Im on
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/powrohitham-rohan)
 
-## 🙌 Let's Connect!
-Feel free to explore my repositories and projects
-Reach out to me on LinkedIn
-Always open to collaboration, feedback, and learning new things!
-Thanks for visiting my profile!
+
