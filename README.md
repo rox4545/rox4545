@@ -2,7 +2,7 @@
 # 👋 Hello!, I'm Rohan_!
 
 
-🌱 I’m currently learning python <br><br>
+🌱 building and breaking things :) <br><br>
 📍 I'm currently doing my B.Tech in amrita vishwa vidhyapeetam , coimbatore , India <br><br>
 🖼️ I also do Graphic Design in free time [![Static Badge](https://img.shields.io/badge/works-black?style=flat-square&logo=Instagram&logoColor=%23FFFFFF&logoSize=auto)](https://www.instagram.com/ro1.dzns)
  <br><br>
